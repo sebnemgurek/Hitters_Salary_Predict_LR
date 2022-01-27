@@ -2,18 +2,25 @@
 
 #  Amaç (Aim)
 Maaş bilgileri ve 1986 yılına ait kariyer istatistikleri paylaşılan beyzbol oyuncularının maaş tahminleri için bir makine öğrenmesi projesi gerçekleştirmek
+
 Carrying out a machine learning project to estimate the salaries of baseball players whose salary information and career statistics for 1986 are shared.
 
 
 # Değişkenler (Variables)
 
 AtBat: 1986-1987 sezonunda bir beyzbol sopası ile topa yapılan vuruş sayısı (Number of hits with a baseball bat in the 1986-1987 season)
+
 Hits: 1986-1987 sezonundaki isabet sayısı (Number of hits in the 1986-1987 season)
+
 HmRun: 1986-1987 sezonundaki en değerli vuruş sayısı (Most valuable hits in the 1986-1987 season)
+
 Runs: 1986-1987 sezonunda takımına kazandırdığı sayı (The points he earned for his team in the 1986-1987 season)
+
 RBI: Bir vurucunun vuruş yaptıgında koşu yaptırdığı oyuncu sayısı (Number of players a hitter had jogged when he hit)
+
 Walks: Karşı oyuncuya yaptırılan hata sayısı (Number of mistakes made by the opposing player)
-Years: Oyuncunun major liginde oynama süresi (sene) (Player's playing time in major league (years))
+
+Years: Oyuncunun major liginde oynama süresi (sene) (Player's playing time in major league (years)) /n
 CAtBat: Oyuncunun kariyeri boyunca topa vurma sayısı (Number of hits during the player's career)
 CHits: Oyuncunun kariyeri boyunca yaptığı isabetli vuruş sayısı (Number of hits made by the player throughout his career)
 CHmRun: Oyucunun kariyeri boyunca yaptığı en değerli sayısı (The player's most valuable point during his career)
