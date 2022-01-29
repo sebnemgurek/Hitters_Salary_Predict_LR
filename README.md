@@ -47,3 +47,8 @@ Salary: Oyuncunun 1986-1987 sezonunda aldığı maaş(bin uzerinden) (Salary of 
 
 NewLeague: 1987 sezonunun başında oyuncunun ligini gösteren A ve N seviyelerine sahip bir faktör (A factor with A and N levels showing the player's league at the start of the 1987 season)
 
+# Comment
+
+Modelimiz tahminen %53 başarılı (Our model is estimated to be 53% successful)
+
+Modelimiz maaş değişkenini -314 ve +314 değerleri arasında hatalı tahmin etmektedir.(Our model incorrectly estimates the salary variable between +314 and -314 values.)
